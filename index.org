@@ -1,0 +1,5 @@
+#+title: Testing a static website
+#+author: Valentin Vergara Hidd
+#+DATE: \today
+
+* Sections structure
