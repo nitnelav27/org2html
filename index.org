@@ -2,4 +2,10 @@
 #+author: Valentin Vergara Hidd
 #+DATE: \today
 
-* Sections structure
+* First section
+
+Some text goes here, without any style files.
+
+* Another section
+
+What about some [[https://www.youtube.com/watch?v=dQw4w9WgXcQ][links?]]
